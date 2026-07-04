@@ -86,11 +86,12 @@ const Work = () => {
                         </p>
                         <div className="carousel-tools">
                           <span className="tools-label">Tools & Features</span>
-                          <p>{project.tools}</p>
+                          
                         </div>
                       </div>
                     </div>
                     <div className="carousel-image-wrapper">
+                      {/* bcsjdcbksksk */}
                       <WorkImage
                         image={project.image}
                         alt={project.title}
